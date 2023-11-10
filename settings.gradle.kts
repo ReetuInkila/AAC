@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Arduino controller"
+rootProject.name = "arduinoController"
 include(":app")
+ 
